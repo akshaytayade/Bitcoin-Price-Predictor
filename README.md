@@ -1,3 +1,3 @@
-# Bitcoin Price Predictor mk4
+# Bitcoin Price Predictor 
 
-ML mini project
+1st ML project using Streamlit for FrontEnd
